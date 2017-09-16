@@ -1,2 +1,2 @@
 # SubImage-Creator
-Creating 4 sub-images from single image
+Code in Matlab to create 4 sub-images from single image.
